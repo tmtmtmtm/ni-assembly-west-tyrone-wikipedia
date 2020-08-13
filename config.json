@@ -1,0 +1,10 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/West_Tyrone_(Assembly_constituency)",
+  "wikidata": [{
+    "id": "Q7986717",
+    "start": "1996",
+    "end": "9999"
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "Northern Irish election candidate"
+}
